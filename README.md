@@ -2,7 +2,7 @@
 ## Skills
 Python, R, JAVA, SQL (Postgre)
 ## Resume
-Available at: 
+Available at: https://github.com/oliviaccw/ChanSzeWai.github.io/blob/main/Chan_SzeWai_Resume.pdf
 ## School Projects
 [A] Information Security: File management system that supports passphrase encryption, public key encryption, and public key generation
 
