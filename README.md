@@ -6,7 +6,7 @@ Available at:
 ## School Projects
 [A] Information Security: File management system that supports passphrase encryption, public key encryption, and public key generation
 
-Source Code: https://github.com/oliviaccw/File-Management-System-for-Encryption
+Source Code: [here](https://github.com/oliviaccw/File-Management-System-for-Encryption)
 
 [A] Problem Solving using Object Oriented Programming
 
