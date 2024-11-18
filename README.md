@@ -10,11 +10,11 @@ Source Code: [here](https://github.com/oliviaccw/File-Management-System-for-Encr
 
 [A] Problem Solving using Object Oriented Programming
 
-Source Code:
+
 
 [A] Data Management in Business
 
-Source Code:
+
 
 ## Academic Experience
 **BBA (Hons.) Applied Economics**
